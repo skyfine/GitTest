@@ -3,3 +3,7 @@ Hello, GitTest!
 
 OK, I add a new line for branch-develop >3<
 Cool, I add 1 more line for branch-develop!!!
+
+---
+
+Well, the hotfix #1 was applied... updated and continue the development~
