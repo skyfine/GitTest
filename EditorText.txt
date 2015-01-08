@@ -7,3 +7,6 @@ Cool, I add 1 more line for branch-develop!!!
 ---
 
 Well, the hotfix #1 was applied... updated and continue the development~
+
+OK, it is time to merge develop to master again!!!! Cheerrrrrrrrrrrrr
+---
